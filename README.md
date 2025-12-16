@@ -8,7 +8,7 @@
 
 **YouTube Video Link:** https://youtu.be/uHEhIPPZUqc
 
-**APIs:** Finnhub Stock API(https://finnhub.io/)
+**APIs:** Finnhub Stock API (https://finnhub.io/)
 
 **Contact Email:** niyantp@terpmail.umd.edu
 
