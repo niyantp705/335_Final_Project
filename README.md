@@ -6,13 +6,13 @@
 
 **App Description:** A stock portfolio tracker that allows users to search real-time stock prices using the Finnhub API and record buy/sell transactions stored in MongoDB.
 
-**YouTube Video Link:** [YOUR_YOUTUBE_LINK]
+**YouTube Video Link:** https://youtu.be/uHEhIPPZUqc
 
 **APIs:** Finnhub Stock API(https://finnhub.io/)
 
 **Contact Email:** niyantp@terpmail.umd.edu
 
-**Deployed App Link:** [YOUR_RENDER_LINK]
+**Deployed App Link:** https://three35-final-project-sqew.onrender.com/
 
 ---
 
